@@ -1,10 +1,10 @@
 function makeBigger() {
-    // alert("Hello, world!");
+    alert("Hello, world!");
     document.getElementById("userInput").style.fontSize = "24pt";
 }
 
 function changeStyle() {
-    // alert("Changed!")
+    alert("Changed!")
     let textArea = document.getElementById("userInput");
     let isFancy = document.getElementById("fancy").checked;
 
