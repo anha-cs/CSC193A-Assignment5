@@ -12,4 +12,4 @@ This assignment demonstrates basic JavaScript DOM manipulation and event handlin
 * **Moo:** Uppercases all text and appends "-MOO" to the end of each sentence.
 
 ## Live Link
-(https://anha-cs.github.io/CSC193A-Assignment5/)
+(https://anha-cs.github.io/CSC193A-Assignment5/fancifymytext.html)
